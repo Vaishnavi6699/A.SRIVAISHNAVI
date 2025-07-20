@@ -47,12 +47,20 @@
 
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi6699&show_icons=true&theme=tokyonight" alt="Vaishnavi's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnavi6699&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi6699&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaishnavi6699&theme=radical&utcOffset=+5.5" />
 </p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vaishnavi6699&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vaishnavi6699&theme=radical" />
+</p>
+
 
 ---
 
