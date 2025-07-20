@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm A. Sri Vaishnavi</h1>
+<h1 align="center">Hi 👋, I'm A. Srivaishnavi</h1>
 <h3 align="center">CSE Student | ML Enthusiast | Aspiring Software Developer</h3>
 
 <p align="center">
@@ -32,6 +32,7 @@
 - 🫁 **Pneumonia Detection System**  
   A CNN-based medical image classifier for chest X-ray diagnosis  
   Built with: TensorFlow, Keras, scikit-learn, Matplotlib
+  
   (https://github.com/Vaishnavi6699/Pneumonia-detection-using-ml-models)
 
 
