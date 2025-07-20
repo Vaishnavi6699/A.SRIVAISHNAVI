@@ -49,10 +49,9 @@
 
 ### 📊 GitHub Overview
 
-<!-- GitHub Stats -->
+<!-- GitHub General Stats -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vaishnavi6699&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vaishnavi6699&theme=radical&utcOffset=+5.5" />
 </p>
 
 <!-- Most Used Languages -->
