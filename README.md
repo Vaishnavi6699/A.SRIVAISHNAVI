@@ -31,7 +31,6 @@
 
 - 🫁 **Pneumonia Detection System**  
   A CNN-based medical image classifier for chest X-ray diagnosis  
-  Built with: TensorFlow, Keras, scikit-learn, Matplotlib
   (https://github.com/Vaishnavi6699/Pneumonia-detection-using-ml-models)
 
 
