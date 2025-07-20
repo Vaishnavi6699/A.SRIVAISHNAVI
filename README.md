@@ -23,7 +23,7 @@
 
 - 🏏 **IPL Score Prediction with Live Weather Forecasting**  
   Predicts IPL scores using a regression model and real-time weather data via APIs  
-  [View on GitHub](https://github.com/Vaishnavi6699/IPL-SCORE-PREDICTION-LIVE-WEATHER-INTEGRATION)
+(https://github.com/Vaishnavi6699/IPL-SCORE-PREDICTION-LIVE-WEATHER-INTEGRATION)
 
 - 🎨 **Black and White Image Colorisation**  
   Converts grayscale images to realistic color using pre-trained DNN models in OpenCV  
