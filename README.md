@@ -15,7 +15,7 @@
 - 🧠 Passionate about **AI/ML**, **Web Development**, and real-world tech solutions
 - 🔍 Strong interest in problem solving, image processing, and data analytics
 - 💡 Actively involved in academic & personal projects using Python, Java, and ML frameworks
-- 🚀 Currently exploring: **Deep Learning**, **Flask**, and **Real-Time APIs**
+- 🚀 Currently exploring: **Deep Learning**, **Block Chain**, and **Real-Time APIs**
 
 ---
 
@@ -27,15 +27,13 @@
 
 - 🎨 **Black and White Image Colorisation**  
   Converts grayscale images to realistic color using pre-trained DNN models in OpenCV  
-  Tools: Python, OpenCV, NumPy, Caffe models
+  (https://github.com/Vaishnavi6699/Image-Colourisation-using-machine-learning-models)
 
 - 🫁 **Pneumonia Detection System**  
   A CNN-based medical image classifier for chest X-ray diagnosis  
   Built with: TensorFlow, Keras, scikit-learn, Matplotlib
+  (https://github.com/Vaishnavi6699/Pneumonia-detection-using-ml-models)
 
-- ✈️ **Airline Reservation System**  
-  Created a basic CLI-based reservation system to simulate real-time bookings  
-  Technologies used: Java, File Handling, OOP Concepts
 
 ---
 
@@ -45,17 +43,10 @@
 - **ML/DL Frameworks:** TensorFlow, OpenCV  
 - **Databases:** SQL, MongoDB  
 - **Tools:** Power BI, Excel, Tableau  
-- **Others:** Git, GitHub, OS & File Handling, API Integration
 
 ---
 
-### 🏆 Achievements
 
-- ✅ **HackAttack Hackathon Volunteer** – Sreyas National Event  
-- 🎖️ **HackerRank Certifications** – Python Basics & Problem Solving  
-- 🏏 **Runner-Up** – College Cricket Tournament
-
----
 
 ### 📊 GitHub Stats
 
