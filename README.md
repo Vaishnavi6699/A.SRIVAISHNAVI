@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm A. Srivaishnavi</h1>
-<h3 align="center">CSE Student | ML Enthusiast | Aspiring Software Developer</h3>
+<h3 align="center">CSE Student | Frontend Developer | Aspiring Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/a-sri-vaishnavi-185a6b2a2/">LinkedIn</a> • 
